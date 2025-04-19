@@ -1,6 +1,6 @@
 # 👾 So Long 🚀
 
-![Proje Demosu GIF](https://s6.ezgif.com/tmp/ezgif-61173290ce86fa.gif)
+![Proje Demosu GIF](ezgif-29a31027de62fb.gif)
 [![42 Intra Badge](https://img.shields.io/badge/42_Okulu-Projesi-00babc?style=for-the-badge&logo=42)](https://www.42kocaeli.com.tr) [![Language](https://img.shields.io/badge/Dil-C-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 Bu repo, 42 okulları müfredatının bir parçası olan `so_long` projesini içerir. MiniLibX grafik kütüphanesi kullanılarak C dilinde yazılmış basit bir 2D oyundur. Amacımız, haritadaki tüm toplanabilir öğeleri (💎) toplayıp çıkış kapısına (🚪) ulaşmak!
